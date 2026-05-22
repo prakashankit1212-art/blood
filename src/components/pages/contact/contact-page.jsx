@@ -110,7 +110,7 @@ const ContactPage = () => {
 			key: "address",
 			stepNumber: <FaMapMarkerAlt />,
 			stepName: "Address",
-			stepDescription: "Karachi, Sindh, Pakistan",
+			stepDescription: "Adityapur, Jamshedpur, Jharkhand",
 			stepUrl: "https://goo.gl/maps/sszR4K9aDKuYfy2Y8",
 		},
 	];
